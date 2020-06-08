@@ -88,26 +88,11 @@
     "cols": 2
   },
   {
-    "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/013.jpg",
-    "title": "Cat",
-    "author": "Divyansh Chaudhary",
-    "cols": 4
-  },
-  {
-    "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/014.jpg",
-    "title": "Joker",
-    "author": "Divyansh Chaudhary",
-    "cols": 2
-  },
-  {
     "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/015.jpg",
     "title": "Suicide Squard Girl",
     "author": "Divyansh Chaudhary",
     "cols": 2
   },
-  
-  
-  
   {
     "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/017.jpg",
     "title": "Joker Portrait",
@@ -117,6 +102,18 @@
   {
     "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/018.jpg",
     "title": "Irritated Girl",
+    "author": "Divyansh Chaudhary",
+    "cols": 2
+  },
+  {
+    "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/013.jpg",
+    "title": "Cat",
+    "author": "Divyansh Chaudhary",
+    "cols": 4
+  },
+  {
+    "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/014.jpg",
+    "title": "Joker",
     "author": "Divyansh Chaudhary",
     "cols": 2
   },
