@@ -25,10 +25,6 @@
     "author": "Divyansh Chaudhary",
     "cols": 2
   },
-  
-  
-  
-  
   {
     "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/05.JPG",
     "title": "Portrait of a Women",
@@ -59,25 +55,27 @@
     "author": "Divyansh Chaudhary",
     "cols": 2
   },
-  
-  
   {
     "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/02.JPG",
     "title": "Lips",
     "author": "Divyansh Chaudhary",
     "cols": 4
-  },
-  
-  
-  {
-    "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/010.jpg",
-    "title": "Eye",
+  }, 
+    {
+    "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/021.jpg",
+    "title": "Stranger Things",
     "author": "Divyansh Chaudhary",
-    "cols": 4
+    "cols": 2
   },
   {
-    "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/011.jpg",
-    "title": "Smiling Women",
+    "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/022.jpg",
+    "title": "Blowing Wind",
+    "author": "Divyansh Chaudhary",
+    "cols": 2
+  },
+  {
+    "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/023.jpg",
+    "title": "Joker Mask",
     "author": "Divyansh Chaudhary",
     "cols": 2
   },
@@ -130,24 +128,6 @@
     "cols": 2
   },
   {
-    "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/021.jpg",
-    "title": "Stranger Things",
-    "author": "Divyansh Chaudhary",
-    "cols": 2
-  },
-  {
-    "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/022.jpg",
-    "title": "Blowing Wind",
-    "author": "Divyansh Chaudhary",
-    "cols": 2
-  },
-  {
-    "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/023.jpg",
-    "title": "Joker Mask",
-    "author": "Divyansh Chaudhary",
-    "cols": 2
-  },
-  {
     "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/024.jpg",
     "title": "Pearcing",
     "author": "Divyansh Chaudhary",
@@ -162,6 +142,18 @@
   {
     "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/026.jpg",
     "title": "Joyful",
+    "author": "Divyansh Chaudhary",
+    "cols": 2
+  },
+  {
+    "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/010.jpg",
+    "title": "Eye",
+    "author": "Divyansh Chaudhary",
+    "cols": 4
+  },
+  {
+    "img": "https://raw.githubusercontent.com/escapeeescudo/Sketches/master/011.jpg",
+    "title": "Smiling Women",
     "author": "Divyansh Chaudhary",
     "cols": 2
   },
